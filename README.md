@@ -1,2 +1,2 @@
 # Vast Visuals
-Dive deep in the vast collection of photos or visuals that inspire. 
+Vast Visuals is a collection of beautiful photos or visuals that inspire.
