@@ -1,2 +1,2 @@
-# vast-visuals
+# Vast Visuals
  
